@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#tete {
+	display: flex;
+	justify-content: space-between;
+}
+
+#maison {
+	height: 100px;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#maisondiv {
+	align-items: center;
+	align-self: center;
+	align-content: center;
+}
+
+#titre {
+	align-items: center;
+	align-self: center;
+	align-content: center;
+	text-align: center;
+}
+
+#pelle {
+	height: 100px;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
